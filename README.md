@@ -1,5 +1,5 @@
-# ProgrammingInBasics
+# ProgrammingInBasicsCourse
 Homework from SoftUni 🙂 🙂
+![image](https://github.com/StefanHristov1997/ProgrammingInBasicsCourse/assets/133797718/556f0b58-868f-4a67-a076-f0a348e08b16)
 
-![image](https://github.com/StefanHristov1997/ProgrammingInBasics/assets/133797718/ccae3673-6060-422f-b766-da6cb0e505c2)
 
