@@ -1,7 +1,6 @@
 # ProgrammingInBasicsCourse
-<strong> Hello, in this repository are all my solved problems from Java Basics course in Software University. </strong> </br>
 <img align="right" src ="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/4a7cc40b-0bcf-4068-8297-563d4d6df91c" width="100" height="100" />
-
+<strong> Hello, in this repository are all my solved problems from Java Basics course in Software University. </strong> </br>
 ### Тhe skills I gained after completing the course:
 👉 <strong> Working with the console (data input and output) </strong> <br> 
 👉 <strong> Working with loops (for) </strong>  <br> 
