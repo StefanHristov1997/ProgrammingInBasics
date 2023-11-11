@@ -4,11 +4,11 @@
 
 ### Тhe skills I gained after completing the course:
 👉 <strong> Working with the console (data input and output) </strong> 
-👉 Working with loops (for)
-👉 Work with more complex logical checks
-👉 Working with logical checks (if-else)
-👉 Perform simple calculations
-👉 Working with more complex loops (nested for loops and while)
+👉 <strong> Working with loops (for) </strong>
+👉 <strong> Work with more complex logical checks </strong>
+👉 <strong> Working with logical checks (if-else) </strong>
+👉 <strong> Perform simple calculations </strong>
+👉 <strong> Working with more complex loops (nested for loops and while) </strong>
 
 ### My certificate after the course
  <img src = "https://github.com/StefanHristov1997/Programming_In_Basics_Course/assets/133797718/6b3b5f3f-ee4a-41d8-8ca4-48adfa47b84a" weidth = "300" height = "400" />
